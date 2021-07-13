@@ -1,0 +1,4 @@
+{
+  "appService.deploySubpath": "node-azure",
+  "appService.defaultWebAppToDeploy": "/subscriptions/9582599f-fc06-42b9-977e-aa8675ffbd8a/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/nodeyago"
+}
