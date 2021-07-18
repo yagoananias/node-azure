@@ -3,7 +3,7 @@ var router = express.Router();
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Node Azure Yago' });
+  res.render('index', { title: 'Node Azure Yago teste' });
 });
 
 module.exports = router;
